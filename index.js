@@ -21,7 +21,7 @@ let displayPoems = (array) => {
 
   poemArray = array.map((poem) => {
     html += `
-    <div class="card">
+    <div class="card m-3">
         <div class="author card-header">
             Author: ${poem.author}
         </div>
