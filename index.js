@@ -12,6 +12,11 @@ const c40poems = [
     poem:
       "Roses are red \n Pizza sauce is too \n I ordered a large \n None of it is for you ",
   },
+  {
+    author: "Cece",
+    poem:
+      "Roses are red \n Violets are blue \n Jerry Seinfeld is considering \n Making Bee Movie 2",
+  },
 ];
 
 let displayPoems = (array) => {
@@ -21,7 +26,7 @@ let displayPoems = (array) => {
 
   poemArray = array.map((poem) => {
     html += `
-    <div class="card">
+    <div class="card m-3">
         <div class="author card-header">
             Author: ${poem.author}
         </div>
