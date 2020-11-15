@@ -10,6 +10,11 @@ const c40poems = [
   {
     author: "Cece",
     poem:
+      "Roses are red \n Pizza sauce is too \n I ordered a large \n None of it is for you ",
+  },
+  {
+    author: "Cece",
+    poem:
       "Roses are red \n Violets are blue \n Jerry Seinfeld is considering \n Making Bee Movie 2",
   },
 ];
