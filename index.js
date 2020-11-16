@@ -16,7 +16,7 @@ const c40poems = [
   },
 
   {
-    author: "Lulu" for "Phoebe Bridgers",
+    author: "Lulu" "Phoebe Bridgers",
     poem:
       "Roses are red \n Haunting voices in the smoky lyrics \n Friday I'm in love",
   },
