@@ -46,3 +46,9 @@ let displayPoems = (array) => {
 };
 
 displayPoems(c40poems);
+
+{
+  author = "Trisha"
+  poem: " Roses are red \n sometimes water is green \n if you don't put yourself out there \n you'll never be seen",
+  
+}
