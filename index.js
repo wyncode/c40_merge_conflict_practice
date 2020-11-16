@@ -22,6 +22,10 @@ const c40poems = [
     poem:
       "Roses are red \n Sometimes life isn't fair \n Shampoo press \n Get you outta my hair",
   },
+  {
+  author: "Bad Bunny"),
+  poem: "Baby la vida es un siclo \n y lo que no sirve yo no lo reciclo"),
+  }
 ];
 
 let displayPoems = (array) => {
