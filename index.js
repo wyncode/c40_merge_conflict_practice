@@ -22,6 +22,13 @@ const c40poems = [
     poem:
       "Roses are red \n Sometimes life isn't fair \n Shampoo press \n Get you outta my hair",
   },
+{
+  author:"Beyonce",
+  poem: `Roses are red
+  violets are blue 
+  something something
+  how about you?`,
+},
 ];
 
 let displayPoems = (array) => {
