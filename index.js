@@ -22,6 +22,9 @@ const c40poems = [
     poem:
       "Roses are red \n Sometimes life isn't fair \n Shampoo press \n Get you outta my hair",
   },
+
+  (author: "Lady Gaga"),
+  (poem: "Roses are red \n Violets are blue \n My Monsters are beast \n And I have meat on my shoe."),
 ];
 
 let displayPoems = (array) => {
