@@ -16,7 +16,11 @@ const c40poems = [
   },
 
   // YOUR CODE HERE: Add an object containing two key value pairs: author and poem. Set the author property as equal to a string with your first name. Set the poem property as equal to a short "roses are red" poem. Use the new line character as in the example when you would like a line break.
-
+  {
+    author: "Jespson",
+    poem:
+      "no lie im trying to see where this is going, but i though i was going to write about beyonce, bu tnow im just flowing",
+  },
   {
     author: "Lizzo",
     poem:
