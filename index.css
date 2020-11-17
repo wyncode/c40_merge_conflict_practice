@@ -6,7 +6,11 @@
 
 /* YOUR CODE HERE: Change the background-color property of the <body> tag to a different color of your choice. */
 body {
+<<<<<<< HEAD
   background-color: blue;
+=======
+  background-color: teal;
+>>>>>>> b0f3ab51c446c99f9ad05ef973d2c94065529bad
 }
 
 .single-poem {
