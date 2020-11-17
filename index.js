@@ -14,17 +14,22 @@ const c40poems = [
     poem:
       "Roses are red \n Violets are blue \n Jerry Seinfeld is considering \n Making Bee Movie 2",
   },
-
-  // YOUR CODE HERE: Add an object containing two key value pairs: author and poem. Set the author property as equal to a string with your first name. Set the poem property as equal to a short "roses are red" poem. Use the new line character as in the example when you would like a line break.
-
   {
     author: "Lizzo",
     poem:
       "Roses are red \n Sometimes life isn't fair \n Shampoo press \n Get you outta my hair",
   },
+    poem:
+      "Roses are red \n Violets are blue \n I am Beyonce \n Lemme upgrade you",
+  },
+  {
+    // YOUR CODE HERE: Add an object containing two key value pairs: author and poem. Set the author property as equal to a string with your first name. Set the poem property as equal to a short "roses are red" poem. Use the new line character as in the example when you would like a line break.
+    author: "Sebastian",
+    poem: "Roses are red \n Violets are blue \n This is a poem \n I like you",
+  },
   {
     author: "Beyonce",
-    poem: "Roses are red \n Violets are blue \n I am Beyonce \n Lemme upgrade you"
+    poem: "Roses are red \n Violets are blue \n I am Beyonce \n And you are a foo"
   }
 ];
 
