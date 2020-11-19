@@ -36,11 +36,14 @@ const c40poems = [
     something something
     how about you?`,
   },
+  {  
+    author: "Beyonce",
+    poem: "Roses are red \n Violets are blue \n Cuz if you liked flowers \n Then you should have put a ring on it",
+  },
   {
     author: "Beyonce",
-    poem:
-      "Roses are red \n Violets are blue \n Cuz if you liked flowers \n Then you should have put a ring on it",
-  },
+    poem: "Roses are red \n Violets are blue \n I am Beyonce \n And you are a foo"
+  }
 ];
 
 let displayPoems = (array) => {
