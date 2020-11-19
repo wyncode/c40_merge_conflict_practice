@@ -31,12 +31,14 @@ const c40poems = [
     poem: "Roses are red \n Violets are blue \n This is a poem \n I like you",
   },
   {
-    author:"Beyonce",
+   author:"Beyonce",
     poem: `Roses are red
     violets are blue 
     something something
     how about you?`,
-  },
+
+    
+
 ];
 
 let displayPoems = (array) => {
