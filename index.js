@@ -19,16 +19,7 @@ const c40poems = [
     poem:
       "Roses are red \n Sometimes life isn't fair \n Shampoo press \n Get you outta my hair",
   },
-<<<<<<< HEAD
-<<<<<<< HEAD
-  {
-    author: "Beyonce",
-    poem: "You stuck your hand in my chest and squeezed my heart to death."
-  }
-=======
 
-=======
->>>>>>> 7578c9bd72f58c6081bf506ea6fbf0e518e46fbc
   {
     author: "Beyonce",
     poem:
@@ -46,18 +37,28 @@ const c40poems = [
     something something
     how about you?`,
   },
-<<<<<<< HEAD
->>>>>>> 8945939cf65a26d132f9d14dbba530d837c67ec0
-=======
   {  
     author: "Beyonce",
-    poem: "Roses are red \n Violets are blue \n Cuz if you liked flowers \n Then you should have put a ring on it",
+    poem:
+      "Roses are red \n Violets are blue \n Cuz if you liked flowers \n Then you should have put a ring on it",
   },
   {
     author: "Beyonce",
     poem: "Roses are red \n Violets are blue \n I am Beyonce \n And you are a foo"
-  }
->>>>>>> 7578c9bd72f58c6081bf506ea6fbf0e518e46fbc
+  },
+  {
+    poem:
+      "Roses are red \n Violets are blue \n I am Beyonce \n And you are a foo",
+  },
+  {
+    author: "Lady Gaga",
+    poem:
+      "Roses are red \n Violets are blue \n My Monsters are beast \n And I have meat on my shoe.",
+  },
+  {
+    author: "Beyonce",
+    poem: "You stuck your hand in my chest and squeezed my heart to death."
+  },
 ];
 
 let displayPoems = (array) => {
