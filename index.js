@@ -37,27 +37,11 @@ const c40poems = [
     something something
     how about you?`,
   },
-  {  
-    author: "Beyonce",
-    poem:
-      "Roses are red \n Violets are blue \n Cuz if you liked flowers \n Then you should have put a ring on it",
-  },
+
   {
     author: "Beyonce",
-    poem: "Roses are red \n Violets are blue \n I am Beyonce \n And you are a foo"
-  },
-  {
     poem:
-      "Roses are red \n Violets are blue \n I am Beyonce \n And you are a foo",
-  },
-  {
-    author: "Lady Gaga",
-    poem:
-      "Roses are red \n Violets are blue \n My Monsters are beast \n And I have meat on my shoe.",
-  },
-  {
-    author: "Beyonce",
-    poem: "You stuck your hand in my chest and squeezed my heart to death."
+      "Roses are red, \n  violets are blue, \n my brain is fried how bout you?",
   },
 ];
 
